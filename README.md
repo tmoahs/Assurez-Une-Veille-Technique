@@ -1,6 +1,6 @@
 # Projet 8 : Veille Technique et POC sur le Few-Shot Learning (SetFit)
 
-### 🎯 Objectif & Résultat Principal
+### Objectif & Résultat Principal
 
 Réalisation d’une veille sur l’efficacité du **Few-Shot Learning**, centrée sur le modèle **SetFit**. Un Proof of Concept (POC) a été mené pour comparer SetFit (F1-Score: 0.87) à une baseline (Régression Logistique, F1-Score: 0.93) sur une tâche de classification de texte.
 
