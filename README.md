@@ -1,4 +1,4 @@
-# Projet 8 : Veille Technique et POC sur le Few-Shot Learning (SetFit)
+# Veille Technique et POC sur le Few-Shot Learning (SetFit)
 
 ### Objectif & Résultat Principal
 
@@ -7,8 +7,6 @@ Réalisation d’une veille sur l’efficacité du **Few-Shot Learning**, centr�
 L'analyse a démontré que **SetFit atteint 93% de la performance de la baseline en n'utilisant que 13% des données d'entraînement** (112 échantillons contre 840), validant son efficacité pour réduire les coûts d'annotation.
 
 ---
-
-Ce projet, le huitième du parcours Data Scientist d'OpenClassrooms, est axé sur la veille technologique et la capacité à évaluer l'apport de nouvelles méthodes de modélisation.
 
 *(Note : La mission initiale P8 comprenait un dashboard, qui a été intégré au Projet 7 (Scoring de Crédit) pour créer un projet MLOps complet. Ce repository se concentre donc exclusivement sur la partie Veille Technique et Proof of Concept.)*
 
